@@ -28,9 +28,9 @@ Assets/
 ├── Scripts/               # ゲームロジック（プレイヤー、ボス、カード）
 ├── Prefabs/               # プレイヤー、敵、弾、カードのプレハブ
 ├── Scenes/                # TitleScene / GameScene / EndScene
-├── Animation/                    # UI関連スクリプト・演出
-├── AudioSource/                 # サウンド（銃声、風、雷など）
-└── Resource/             # カード画像やアニメーション素材
+├── Animation/             # Animator Controller とアニメーションファイル
+├── AudioSource/           # サウンド（銃声、風、雷など）
+└── Resource/              # カード画像やアニメーション素材
 
 【🕹️ 操作方法】
 ← / → / ↑ / ↓   : プレイヤー移動  
