@@ -24,13 +24,13 @@
 - ESCキーでいつでもゲーム終了。
 
 【ディレクトリ構成】
-Assets/
-- Scripts          : ゲームロジック（プレイヤー、ボス、カード）
-- Prefabs          : プレイヤー、敵、弾、カードのプレハブ
-- Scenes           : TitleScene / GameScene / EndScene
-- Animation        : Animator Controller とアニメーションファイル
-- AudioSource      : サウンド（銃声、風、雷など）
-- Resource         : カード画像やアニメーション素材
+- Assets/
+  - Scripts          : ゲームロジック（プレイヤー、ボス、カード）
+  - Prefabs          : プレイヤー、敵、弾、カードのプレハブ
+  - Scenes           : TitleScene / GameScene / EndScene
+  - Animation        : Animator Controller とアニメーションファイル
+  - AudioSource      : サウンド（銃声、風、雷など）
+  - Resource         : カード画像やアニメーション素材
 
 【操作方法】
 矢印キー または WASDキー  : プレイヤー移動  
