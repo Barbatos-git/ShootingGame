@@ -4,3 +4,6 @@
 - ソースコードフォルダ：ソースコードファイルのまとめ
 - docs：ウェブ表示用のゲームのウェブバージョン
   - ウェブ表示URL: https://barbatos-git.github.io/ShootingGame/
+- Releases: ゲーム紹介動画が含まれます
+  - URL: https://barbatos-git.github.io/ShootingGame/
+  　
